@@ -4,13 +4,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=200&section=header&text=Ashish%20Kumar&fontSize=60&fontColor=00FF41&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Spring%20Boot%20Specialist%20%7C%20Java%20Developer&descSize=18&descAlignY=58&descColor=39FF14&animation=twinkling" />
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=🚀+Seeking+SWE+Internship+2025;💻+Full+Stack+Developer+%7C+Spring+Boot+%7C+React;🤖+Building+AI-Powered+Solutions;🌱+Learning+Every+Single+Day;⚡+Code.+Learn.+Build.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Seeking+SWE+Internship+2025;%F0%9F%92%BB+Full+Stack+Developer+%7C+Spring+Boot+%7C+React;%F0%9F%A4%96+Building+AI-Powered+Solutions;%F0%9F%8C%B1+Learning+Every+Single+Day;%E2%9A%A1+Code.+Learn.+Build.+Repeat."/>
+
 
 <br/>
-
-📄 [Download Resume](https://my-portfolio-ten-neon-95.vercel.app/Ashish_Kumar_Resume.pdf)
-
 <br/>
+
+[![Resume](https://img.shields.io/badge/Resume-View-00FF41?style=for-the-badge&logo=readme&logoColor=black&labelColor=000000)](https://my-portfolio-ten-neon-95.vercel.app/Ashish_Kumar_Resume.pdf) 
+[![CV](https://img.shields.io/badge/CV-View-00FF41?style=for-the-badge&logo=adobeacrobatreader&logoColor=black&labelColor=000000)](https://my-portfolio-ten-neon-95.vercel.app/Ashish_Kumar_Resume.pdf)
 
 
 <!-- Badges row -->
@@ -69,7 +70,7 @@
 
 ## ⚡ Tech Arsenal
 
-<div align="center">
+<div>
 
 **Languages**
 
@@ -129,7 +130,7 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div >
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashish2024-28&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 <img width="49%" src="https://streak-stats.demolab.com?user=ashish2024-28&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=00FF41&fire=39FF14&currStreakLabel=00FF41" />
@@ -142,7 +143,7 @@
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+<div >
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashish2024-28/ashish2024-28/output/github-snake-dark.svg" />
@@ -169,7 +170,7 @@
 
 ## 🎯 Coding Profiles
 
-<div align="center">
+<div>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Ashish_Kumar96?theme=dark&font=Fira%20Code&ext=contest&border=0)](https://leetcode.com/u/Ashish_Kumar96/)
 
@@ -181,7 +182,7 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<div >
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ashish2024-28&theme=matrix&no-frame=true&row=1&column=7&margin-w=10)
 
