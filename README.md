@@ -1,4 +1,4 @@
-<div align="center">
+<div >
 
 <!-- Animated Matrix-style header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=200&section=header&text=Ashish%20Kumar&fontSize=60&fontColor=00FF41&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Spring%20Boot%20Specialist%20%7C%20Java%20Developer&descSize=18&descAlignY=58&descColor=39FF14&animation=twinkling" />
