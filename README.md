@@ -16,7 +16,7 @@
 
 <!-- Badges row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000)](https://www.linkedin.com/in/ashish-kumar-2191b5324)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-00FF41?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000)](https://leetcode.com/u/Ashish_Kumar96/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-00FF41?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000)](https://leetcode.com/u/ashish2024-2028/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00FF41?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=000000)](https://www.hackerrank.com/profile/ashish222244q)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=000000)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000)](mailto:ashish224444q@gmail.com)
@@ -141,20 +141,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div >
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashish2024-28/ashish2024-28/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashish2024-28/ashish2024-28/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/ashish2024-28/ashish2024-28/output/github-snake-dark.svg" />
-</picture>
-
-> 💡 **Enable the snake:** Go to your repo → **Actions tab** → Enable workflows → Add the [Platane/snk action](https://github.com/Platane/snk#usage)
-
-</div>
-
 ---
 
 ## 🏆 Achievements & Certifications
@@ -172,7 +158,7 @@
 
 <div>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Ashish_Kumar96?theme=dark&font=Fira%20Code&ext=contest&border=0)](https://leetcode.com/u/Ashish_Kumar96/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ashish2024-2028?theme=dark&font=Fira%20Code&ext=contest&border=0)](https://leetcode.com/u/ashish2024-2028/)
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-ashish222244q-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ashish222244q)
 
@@ -180,15 +166,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div >
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ashish2024-2028&theme=matrix&no-frame=true&row=1&column=7&margin-w=10)
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
