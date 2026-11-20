@@ -184,7 +184,7 @@
 
 <div >
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ashish2024-28&theme=matrix&no-frame=true&row=1&column=7&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ashish2024-2028&theme=matrix&no-frame=true&row=1&column=7&margin-w=10)
 
 </div>
 
@@ -199,7 +199,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-2191b5324)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Ashish__Kumar96-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ashish_Kumar96/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ashish2024-2028-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ashish2024-2028/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-ashish222244q-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ashish222244q)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Gmail-ashish224444q%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashish224444q@gmail.com)
