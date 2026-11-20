@@ -171,10 +171,6 @@
 
 <div align="center">
 
-*🎯 Actively seeking **SWE Internship opportunities for 2025** at innovative tech companies*
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-2191b5324)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ashish2024-2028-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ashish2024-2028/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-ashish222244q-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ashish222244q)
